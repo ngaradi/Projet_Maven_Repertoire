@@ -24,5 +24,6 @@ public abstract class Objet
     {
     	return nom;
     }
+    
 }
 

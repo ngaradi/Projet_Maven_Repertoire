@@ -24,6 +24,7 @@ public class Fichier extends Objet
     }
     
     /**
+     * 
      * Cette méthode permet de renvoyer la taille
      * @return Retourne la taille du fichier qui est un int
      */

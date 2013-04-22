@@ -61,6 +61,5 @@ public class RepertoireTest {
 		r1.add(r2);
 		assertEquals(20, r1.get_taille(),0);
 	}
-	
 
 }
