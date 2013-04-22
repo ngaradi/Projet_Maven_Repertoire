@@ -16,7 +16,6 @@ public class Repertoire extends Objet
     private boolean racine;
     
     /**
-     * 
      * Définition du constructeur de Répertoire
      * On prend ici en argument le nom donné par l'utilisateur qui sera envoyé à la classe Objet
      * Ensuite on crée une liste de type Objet appelée repertoire
