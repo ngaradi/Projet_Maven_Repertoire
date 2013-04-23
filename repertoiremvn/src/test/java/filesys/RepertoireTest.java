@@ -7,7 +7,7 @@ import org.junit.Test;
 public class RepertoireTest {
 
 	/**
-	 * Ceci est test permettant de definir que l'ajout d'une reference nulle est impossible
+	 * Ceci est un test permettant de definir que l'ajout d'une reference nulle est impossible
 	 * @throws RepException
 	 */
 	@Test(expected=RepException.class)
@@ -17,7 +17,7 @@ public class RepertoireTest {
 	}
 	
 	/**
-	 * Ici nous testons 
+	 * Ce test nous permet de verfier que l'ajout d'une reference non nulle est possible 
 	 * @throws RepException
 	 */
 	@Test(expected=RepException.class)
